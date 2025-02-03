@@ -1,0 +1,22 @@
+body {
+    font-family: "Arial";
+    font-size: 20px;
+}
+
+h1 {
+    background-color: rgb(37, 37, 148);
+    color: white;
+    text-align: center;
+}
+
+ul, ol{
+    background-color: rgb(235, 157, 12)
+}
+
+a {
+    color: purple;
+}
+
+p {
+    color: chocolate;
+}
