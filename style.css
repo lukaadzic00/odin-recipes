@@ -1,22 +1,49 @@
 body {
     font-family: "Arial";
     font-size: 20px;
+    background-color: rgb(221, 221, 221);
+    color: white;
 }
 
 h1 {
-    background-color: rgb(37, 37, 148);
+    background-color: darkgreen;
     color: white;
     text-align: center;
+    padding: 15px;
+    box-sizing: border-box;
+    margin: 20px auto;
 }
 
 ul, ol{
-    background-color: rgb(235, 157, 12)
+    background-color: rgb(240, 108, 1);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+    margin: auto;
 }
 
 a {
-    color: purple;
+    color: darkgreen;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+    padding-top: 10px;
+}
+
+li {
+    padding: 5px;
+    margin-bottom: 5px;
 }
 
 p {
-    color: chocolate;
+    color: darkgreen;
+}
+
+.kontejner {
+    box-sizing: border-box;
+    width: 700px;
+    margin: auto;
 }
